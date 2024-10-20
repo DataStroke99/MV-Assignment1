@@ -1,1 +1,1 @@
-# EE6222-MachineVision-Assignment1
+# MachineVision-Assignment1
